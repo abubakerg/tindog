@@ -157,3 +157,12 @@ p{
 .icon-g{
     margin: 10px 6px;
 }
+@media (max-width: 984px){
+    #title{
+        text-align: center;
+    }
+    .apple{
+        position: static;
+        transform: rotate(0);
+    }
+}
